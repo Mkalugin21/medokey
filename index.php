@@ -5,17 +5,19 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
+    <link rel="stylesheet" href="/style/style.css">
 </head>
 <body>
     <div class="header-page">
         <div class="breadcrumb">
             <ul class="breadcrumblist">
-                <li class="breadcrumblist__item"><a href=""></a></li>
-                <li class="breadcrumblist__item"><a href=""></a></li>
+                <li class="breadcrumblist__item"><a href="">Главная</a></li>
+                <li class="breadcrumblist__item"><span class="separator">-></span></li>
+                <li class="breadcrumblist__item"><a href="">Стоимость</a></li>
             </ul>
         </div>
         <div class="page-heading">
-            <h2 class="heading"></h2>
+            <h2 class="heading">Стоимость</h2>
         </div>
     </div>
     <section class="price">

@@ -1,0 +1,8 @@
+.header-page {
+    width: 1920px;
+    min-height: 137px;
+    background-image: linear-gradient(90deg, #0B9CEF 6.67%, #A3D4EF 94.66%), url('../image/banner-top-page.jpg') no-repeat;
+    padding-top: 24px;
+    padding-left: 164px;
+    
+}
